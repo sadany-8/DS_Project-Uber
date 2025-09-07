@@ -17,10 +17,12 @@ Ensuring data consistency, completeness, and reliability.
 Building predictive models to optimize operations.
 
 ## ❓ Key Questions Explored
-
 Which payment method contributes most to Uber’s revenue?
+
 What are the main reasons for cancellations, from both customers and drivers?
+
 How do customer and driver ratings vary across vehicle types?
+
 How reliable is the dataset in terms of quality and coverage?
 
 Which machine learning model can best predict customer cancellations and driver acceptance?
